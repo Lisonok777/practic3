@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Practic3</string>
+    <string name="linear_layout">LINEAR LAYOUT</string>
+    <string name="type_sth">TYPE STH</string>
+    <string name="i_m_button">I\'m button</string>
+    <string name="relative_layout">RELATIVE LAYOUT</string>
+    <string name="constraint_layout">CONSTRAINT LAYOUT</string>
+    <string name="im_not_in_the_layout">i\'m not in the layout</string>
+    <string name="second_activity">SECOND ACTIVITY</string>
+    <string name="cat">Котик</string>
+    <string name="milo">Котики-милые существа</string>
+    <string name="name">Введите имя для котика</string>
+    <string name="choice1">Этот котик</string>
+    <string name="choice2">Этот котик</string>
+    <string name="start">Добро пожаловать!</string>
+    <string name="start1">Здесь вы можете выбрать котика</string>
+    <string name="molodec">Вы молодец!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
